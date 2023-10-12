@@ -1,0 +1,3 @@
+name = "sono"
+main = "src/app.ts"
+compatibility_date = "2023-10-12"
